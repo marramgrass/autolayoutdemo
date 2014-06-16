@@ -14,7 +14,7 @@ Imagine:
 
 A view contains some text with an image below it. The whole thing has a background colour. You have to size the image, size the label, size the outer view. The content might drive the size, the container might have to constrain the size. Yay for code!
 
-![Picture of the hierarchy]()
+![Picture of the hierarchy](images/views.png)
 
 Autolayout lets you use this instead:
 
